@@ -1,4 +1,4 @@
-const live2d_path = "https://tangnameless.github.io/live2d/";
+const live2d_path = "/live2d/";
 //const live2d_path = "./";
 
 $("<link>").attr({href: live2d_path + "waifu.css", rel: "stylesheet", type: "text/css"}).appendTo("head");
